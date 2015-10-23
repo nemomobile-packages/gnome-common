@@ -1,3 +1,0 @@
-[submodule "gnome-common"]
-	path = gnome-common
-	url = git://git.gnome.org/gnome-common
